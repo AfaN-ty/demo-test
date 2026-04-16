@@ -1,4 +1,4 @@
-# 三消塔防（Match-3 + Tower Defense + Rogue-like）
+# 三消塔防（Match-3 + Tower Defense + Rogue-like 1.0）
 
 > 一个将三消构筑、塔防对抗与肉鸽成长融合的单局策略项目。
 
