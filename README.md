@@ -16,7 +16,7 @@
 - 塔防战斗：依托当前棋盘单位构成自动进行攻防结算。
 - 肉鸽成长：击杀累积权重，节点触发选牌，形成局内成长分支。
 - 演示视频 BV1UpdqBtEUK
-- 【1.0 test】 https://www.bilibili.com/video/BV1UpdqBtEUK/?share_source=copy_web&vd_source=4e28b93fa238d5da4fcfbfc5a4dbc0fe
+- https://www.bilibili.com/video/BV1UpdqBtEUK/
 
 ## 核心目标与胜负条件
 - 玩家目标：守住生命核心，完成全部波次并清场。
